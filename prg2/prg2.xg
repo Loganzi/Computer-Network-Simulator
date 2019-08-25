@@ -1,0 +1,12 @@
+TitleText: Performance analysis
+XUnitText: Bandwidth
+YUnitText: No. of packets dropped
+
+0.2 69
+0.4 8
+0.6 8
+0.8 8
+1.0 8
+1.2 8
+1.4 8
+1.6 8
